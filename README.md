@@ -6,10 +6,6 @@
 
 <p align="center">💡 <em>"El conocimiento es poder, pero el entendimiento profundo es sabiduría."</em></p>
 
-<p align="center">
-  <img src="https://img.icons8.com/ios/452/controller.png" alt="Videojuegos" width="100"/>
-</p>
-
 ---
 
 ### 🧑‍💻 Sobre Mí
